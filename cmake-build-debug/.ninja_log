@@ -1,0 +1,16 @@
+# ninja log v5
+7	1874	7085181162834351	CMakeFiles/E3_Objetos.dir/glad.c.obj	1786b12b187dbed3
+15	2075	7085181164882502	CMakeFiles/E3_Objetos.dir/glut_ply.cpp.obj	510fc3735c9cf99d
+10	2001	7085181164135740	CMakeFiles/E3_Objetos.dir/Objeto.cpp.obj	45b9ebea862e5bc0
+4	2813	7085181172250515	CMakeFiles/E3_Objetos.dir/main.cpp.obj	268a0b295d2a90a7
+2813	3221	7085181176253969	E3_Objetos.exe	17db65928db6df70
+12	2237	7085181166486217	CMakeFiles/E3_Objetos.dir/SistemaSolar.cpp.obj	66ba9dc8bebe24bc
+5	200	7085182718444040	build.ninja	69974af1a4227ad5
+4	1716	7085182808250382	CMakeFiles/P2-CG.dir/glad.c.obj	19c1336690714523
+7	1754	7085182808630691	CMakeFiles/P2-CG.dir/Objeto.cpp.obj	3612fb9e01f93485
+10	1791	7085182808989463	CMakeFiles/P2-CG.dir/glut_ply.cpp.obj	4caf254b3242dbbe
+15	2021	7085182811291058	CMakeFiles/P2-CG.dir/SistemaSolar.cpp.obj	d3c777fd0c1eabc3
+1	2536	7085182816446990	CMakeFiles/P2-CG.dir/main.cpp.obj	7377a60a2ddf2abe
+2536	2930	7085182820304085	P2-CG.exe	d9f49c8d1c9be170
+4	2070	7085185648672374	CMakeFiles/P2-CG.dir/SistemaSolar.cpp.obj	d3c777fd0c1eabc3
+2070	2454	7085185652424148	P2-CG.exe	d9f49c8d1c9be170

@@ -1,0 +1,3 @@
+C:/Users/angel_rarmbt1/Escritorio/2023/UTEC/Comp Grafica/OpenGL/Proyecto/P2-CG/cmake-build-debug/CMakeFiles/P2-CG.dir
+C:/Users/angel_rarmbt1/Escritorio/2023/UTEC/Comp Grafica/OpenGL/Proyecto/P2-CG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/angel_rarmbt1/Escritorio/2023/UTEC/Comp Grafica/OpenGL/Proyecto/P2-CG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
